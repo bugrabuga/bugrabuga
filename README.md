@@ -3,20 +3,22 @@
  👨🏻‍💻 I am participant *Data Science and Machine Learning Bootcamp* [Veri Bilimi Okulu](https://www.linkedin.com/in/veribilimiokulu/)
  
  <br/>
+ 
  🎒 I'm a university student in MCBU
+ 
  <br/>
  
  🧠 Data Scientist Candidate
+ 
  <br/>
  
  🌱 Machine Learning & Artificial Intelligence(AI) Learner
  
  <br/>
+ 
  🔭 Currently working on Python and R
  
  <br/>
- 
- 
  
  <img src="https://github.com/bugrabuga/bugrabuga/blob/main/coding.gif" width="auto">
  
@@ -24,11 +26,7 @@
  
  --->       [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
  
- 
  <br/>
- <br/>
- 
- 
  
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/bugrabuga)<br/>
