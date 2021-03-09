@@ -18,7 +18,7 @@
  
  
  
- <img src="gorsel-link" width="auto">
+ <img src="https://github.com/bugrabuga/bugrabuga/blob/main/coding.gif" width="auto">
  
  
  
