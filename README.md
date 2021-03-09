@@ -2,19 +2,19 @@
 
  👨🏻‍💻 I am participant *Data Science and Machine Learning Bootcamp* [Veri Bilimi Okulu](https://www.linkedin.com/in/veribilimiokulu/)
  
- 
+ <br/>
  🎒 I'm a university student in MCBU
- 
+ <br/>
  
  🧠 Data Scientist Candidate
- 
+ <br/>
  
  🌱 Machine Learning & Artificial Intelligence(AI) Learner
  
- 
+ <br/>
  🔭 Currently working on Python and R
  
- 
+ <br/>
  
  
  
@@ -25,7 +25,8 @@
  --->       [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
  
  
- 
+ <br/>
+ <br/>
  
  
  
@@ -36,7 +37,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://www.linkedin.com/in/ahmet-bu%C4%9Fra-bu%C4%9Fa/)
 
 
-
+<br/>
 
 
 
