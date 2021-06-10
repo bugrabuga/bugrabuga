@@ -1,10 +1,14 @@
 ### Hi there 👋
 
- 👨🏻‍💻 I am participant *Data Science and Machine Learning Bootcamp* [Veri Bilimi Okulu](https://www.linkedin.com/in/veribilimiokulu/)
+ 👨🏻‍💻 I am Teaching Assistant *Data Science and Machine Learning Bootcamp* [Veri Bilimi Okulu](https://www.linkedin.com/in/veribilimiokulu/)
  
  <br/>
  
  🎒 I'm a university student in MCBU
+ 
+ <br/>
+ 
+ 👨🏻‍💻  I'm a working Data Analyst in OMD Turkey
  
  <br/>
  
