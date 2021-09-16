@@ -1,8 +1,4 @@
 ### Hi there 👋
-
- 👨🏻‍💻 I am Teaching Assistant *Data Science and Machine Learning Bootcamp* [Veri Bilimi Okulu](https://www.linkedin.com/in/veribilimiokulu/)
- 
- <br/>
  
  🎒 I'm a university student in MCBU
  
