@@ -13,11 +13,13 @@ See you at Repositories!
 ## Connect with me:
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][blog]
-[<img align="left" alt="medium" src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />][blog]
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" />][blog]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=YouTube&logoColor=red" />][blog]
 
  
 [blog]: https://bugaahmetbugra.medium.com
+[blog]: https://linkedin.com/in/ahmetbugrabuga
+[blog]: https://www.youtube.com/channel/UCz6sMOizbHqYs3ID9_lqJvQ
  
  <br/>
  
