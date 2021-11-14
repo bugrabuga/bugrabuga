@@ -27,7 +27,7 @@ See you at Repositories!
 
 ## Technology Stack:
  ---------
-[<img align="left" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" />]
+[<img align="left" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
 [<img align="left" alt="R" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/991px-R_logo.svg.png" />]
 
 
