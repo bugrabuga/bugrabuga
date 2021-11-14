@@ -3,7 +3,7 @@
 I am Buğra, working as a Data Engineer at OMD Turkey, I have command of Python, SQL and R languages. I do projects in the field of data science and marketing science. I like sports analytics and I'm trying to collect data about formula 1. See you at Repositories!
  
 
-![til]("https://github.com/bugrabuga/bugrabuga/blob/main/ab.gif")
+![hippo]("https://github.com/bugrabuga/bugrabuga/blob/main/ab.gif")
 
  
  
