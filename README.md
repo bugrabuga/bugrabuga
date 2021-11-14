@@ -34,7 +34,7 @@ See you at Repositories!
 [<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />][blog]
 
 <br/>
-
+[![Spotify](https://bugrabuga.vercel.app/api/spotify)](https://open.spotify.com/user/1slnzv9hpcemaczigxvnhsacv)
 [![Spotify](https://github-spotify-six.vercel.app/)](https://open.spotify.com/user/1slnzv9hpcemaczigxvnhsacv)
 
 
