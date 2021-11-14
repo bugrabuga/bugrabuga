@@ -22,7 +22,8 @@ See you at Repositories!
 [linked]: https://linkedin.com/in/ahmetbugrabuga
 [youtube]: https://www.youtube.com/channel/UCz6sMOizbHqYs3ID9_lqJvQ
 [kaggle]: https://www.kaggle.com/ahmetburabua
- 
+
+<br/>
 
 ## Technology Stack:
  ---------
