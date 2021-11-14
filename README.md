@@ -25,6 +25,10 @@ See you at Repositories!
  
  <br/>
  
+ [<img align="left" alt="Python" width="30px" src="https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG-Image.png" />][python]
+ 
+ ## Technology Stack:
+ 
 
 
 
