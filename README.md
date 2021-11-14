@@ -10,17 +10,19 @@ See you at Repositories!
 </p>
 
 --------------------------------------------------
- [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+## Connect with me:
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][blog]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />][blog]
+
  
 [blog]: https://bugaahmetbugra.medium.com
  
  <br/>
  
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/bugrabuga)<br/>
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://bugaahmetbugra.medium.com/) <br/>
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://www.kaggle.com/ahmetburabua) <br/>
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://www.linkedin.com/in/ahmet-bu%C4%9Fra-bu%C4%9Fa/)
+
 
 
 <br/>
