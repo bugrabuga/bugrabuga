@@ -1,6 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Buğra, working as a Data Engineer at OMD Turkey, I have command of Python, SQL and R languages. I do projects in the field of data science and marketing science. I like sports analytics and I'm trying to collect data about formula 1. See you at Repositories!
+I am Buğra, working as a Data Engineer at OMD Turkey, I have command of Python, SQL and R languages. I do projects in the field of data science and marketing science. I like sports analytics and I'm trying to collect data about Formula 1.
+See you at Repositories!
  
 
 
@@ -8,9 +9,11 @@ I am Buğra, working as a Data Engineer at OMD Turkey, I have command of Python,
   <img src="https://github.com/bugrabuga/bugrabuga/blob/main/ab.gif" alt="animated" />
 </p>
 
+--------------------------------------------------
  
- 
- --->       [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+ [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+blog is website definition in read file, just a place holder for all the urls that I have used.
+[blog]: https://eresh-zealous.medium.com/
  
  <br/>
  
