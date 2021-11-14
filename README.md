@@ -5,7 +5,7 @@ I am Buğra, working as a Data Engineer at OMD Turkey, I have command of Python,
 
 
 <p align="center">
-  <img src="https://github.com/bugrabuga/bugrabuga/blob/main/ab.giff" alt="animated" />
+  <img src="https://github.com/bugrabuga/bugrabuga/blob/main/ab.gif" alt="animated" />
 </p>
 
  
