@@ -27,8 +27,8 @@ See you at Repositories!
 
 ## Technology Stack:
  ---------
-[<img align="left" alt="Python" width="50px" src="https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG-Image.png" />]
-[<img align="left" alt="R" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/991px-R_logo.svg.png" />]
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" />]
+[<img align="left" alt="R" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/991px-R_logo.svg.png" />]
 
 
 
