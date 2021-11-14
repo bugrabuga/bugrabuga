@@ -23,12 +23,9 @@ See you at Repositories!
 [youtube]: https://www.youtube.com/channel/UCz6sMOizbHqYs3ID9_lqJvQ
 [kaggle]: https://www.kaggle.com/ahmetburabua
  
- <br/>
- 
- [<img align="left" alt="Python" width="50px" src="https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG-Image.png" />]
  
  ## Technology Stack:
- 
+[<img align="left" alt="Python" width="50px" src="https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG-Image.png" />] 
 
 
 
