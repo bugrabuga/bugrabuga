@@ -37,6 +37,11 @@ See you at Repositories!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabuga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bugrabuga)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bugrabuga&show_icons=true&theme=radical)
 
