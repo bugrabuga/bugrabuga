@@ -33,14 +33,17 @@ See you at Repositories!
 [<img align="left" alt="SQL" width="30px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" />][blog]
 [<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />][blog]
 
-
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabuga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-
-
+<br/>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bugrabuga&show_icons=true&theme=radical)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabuga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 
