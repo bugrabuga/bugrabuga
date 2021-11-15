@@ -35,8 +35,7 @@ See you at Repositories!
 
 <br/>
 
-[![Spotify](github.com/bugrabuga/github-spotify)](https://open.spotify.com/user/1slnzv9hpcemaczigxvnhsacv)
-
+[![Spotify](https://github-spotify-2ulru5wfu-bugrabuga.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bugrabuga&show_icons=true&theme=radical)
