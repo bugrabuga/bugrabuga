@@ -6,7 +6,7 @@ See you at Repositories!
 
 
 <p align="center">
-  <img src="https://github.com/bugrabuga/bugrabuga/blob/main/ab.gif" alt="animated" width="400px" />
+  <img src="https://github.com/bugrabuga/bugrabuga/blob/main/ab.gif" alt="animated" width="800px" />
 </p>
 
 --------------------------------------------------
