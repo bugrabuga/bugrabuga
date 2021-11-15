@@ -43,9 +43,8 @@ See you at Repositories!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabuga)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## StackOverflow Activity:
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-
+# Blog posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
