@@ -34,9 +34,9 @@ See you at Repositories!
 [<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />][blog]
 
 <br/>
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabuga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 <br/>
 
 
