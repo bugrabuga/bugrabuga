@@ -6,7 +6,7 @@ See you at Repositories!
 
 
 <p align="center">
-  <img src="https://github.com/bugrabuga/bugrabuga/blob/main/ab.gif" alt="animated" />
+  <img src="https://github.com/bugrabuga/bugrabuga/blob/main/ab.gif" alt="animated" width="400px" />
 </p>
 
 --------------------------------------------------
@@ -39,8 +39,6 @@ See you at Repositories!
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bugrabuga&show_icons=true&theme=merko)
 
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabuga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabuga)](https://github.com/anuraghazra/github-readme-stats)
 
