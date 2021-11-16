@@ -25,7 +25,7 @@ See you at Repositories!
 
 <br/>
 
-[<img src="https://github-spotify-six.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/1slnzv9hpcemaczigxvnhsacv)
+[<img src="https://github-spotify-six.vercel.app/api/github-spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/)
 
 ## Technology Stack:
 
