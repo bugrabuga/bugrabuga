@@ -25,7 +25,7 @@ See you at Repositories!
 
 <br/>
 
-[![Spotify](https://bugrabuga.vercel.app/api/github-spotify)](https://open.spotify.com/user/1slnzv9hpcemaczigxvnhsacv)
+[![Spotify](https://github-spotify-six.vercel.app)](https://open.spotify.com/user/1slnzv9hpcemaczigxvnhsacv)
 
 ## Technology Stack:
 
