@@ -43,7 +43,7 @@ See you at Repositories!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabuga)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Spotify](https://github-spotify-six.vercel.app/github-spotify)](https://open.spotify.com/user/1slnzv9hpcemaczigxvnhsacv)
+[![Spotify](https://github-spotify-six.vercel.app/)](https://open.spotify.com/user/1slnzv9hpcemaczigxvnhsacv)
 
 # Blog posts:
 <!-- BLOG-POST-LIST:START -->
