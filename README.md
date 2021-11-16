@@ -43,6 +43,8 @@ See you at Repositories!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabuga)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Spotify](https://github-spotify-six.vercel.app/github-spotify)](https://open.spotify.com/user/1slnzv9hpcemaczigxvnhsacv)
+
 # Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Veri Ön İşleme — 1](https://bugaahmetbugra.medium.com/veri-%C3%B6n-i%CC%87%C5%9Fleme-1-2a5fb77bd90?source=rss-dd2a4c8354c5------2)
