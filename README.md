@@ -25,6 +25,8 @@ See you at Repositories!
 
 <br/>
 
+[![Spotify](https://bugrabuga.vercel.app/api/github-spotify)](https://open.spotify.com/user/1slnzv9hpcemaczigxvnhsacv)
+
 ## Technology Stack:
 
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][blog]
