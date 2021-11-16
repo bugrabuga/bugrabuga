@@ -25,8 +25,6 @@ See you at Repositories!
 
 <br/>
 
-[![Spotify][<img src="https://github-spotify-six.vercel.app/api/github-spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/)
-
 ## Technology Stack:
 
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][blog]
