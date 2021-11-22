@@ -47,6 +47,7 @@ See you at Repositories!
 
 # Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Versiyon Kontrol Sistemleri — Git — Github](https://bugaahmetbugra.medium.com/versiyon-kontrol-sistemleri-git-github-3be2ac6b034?source=rss-dd2a4c8354c5------2)
 - [Veri Ön İşleme — 1](https://bugaahmetbugra.medium.com/veri-%C3%B6n-i%CC%87%C5%9Fleme-1-2a5fb77bd90?source=rss-dd2a4c8354c5------2)
 - [Hiyerarşik Kümeleme](https://bugaahmetbugra.medium.com/hiyerar%C5%9Fik-k%C3%BCmeleme-99c88eb05931?source=rss-dd2a4c8354c5------2)
 - [K Merkezli Kümeleme](https://bugaahmetbugra.medium.com/k-merkezli-k%C3%BCmeleme-2e793ddbfba9?source=rss-dd2a4c8354c5------2)
