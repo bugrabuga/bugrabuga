@@ -1,13 +1,8 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 I am Buğra, working as a Data Engineer at OMD Turkey, I have command of Python, SQL and R languages. I do projects in the field of data science and marketing science. I like sports analytics and I'm trying to collect data about Formula 1.
 See you at Repositories!
  
-
-
-<p align="center">
-  <img src="https://github.com/bugrabuga/bugrabuga/blob/main/ab.gif" alt="animated" width="800px" />
-</p>
 
 --------------------------------------------------
 ## Connect with me:
